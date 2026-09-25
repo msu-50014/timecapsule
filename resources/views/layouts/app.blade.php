@@ -8,7 +8,6 @@
     }
     $showFullNav = ! $authEnabled || $currentUser !== null;
 @endphp
-<?php broken(
 <!doctype html>
 <html lang="en">
 <head>
